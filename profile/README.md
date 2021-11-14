@@ -1,4 +1,4 @@
-![](./profile-inline-cover.png)
+![Grida Opensource on Github](/profile/profile-inline-cover.png)
 
 ## Get Involved
 
@@ -11,4 +11,3 @@
 - [Grida VSCode](https://github.com/gridaco/vscode-extension)
 - [Grida Figma - _Grida Assistant_](https://github.com/gridaco/assistant)
 - [Grida Design to Code](https://github.com/gridaco/designto-code)
-
