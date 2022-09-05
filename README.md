@@ -17,5 +17,5 @@ We have opened all our codes herer on `/gridaco`
 
 **Slack integration**
 ```
-/github subscribe gridaco/${repo} issues pulls deployments statuses public commits commits:all releases comments branches reviews
+/github subscribe gridaco/${repo} issues pulls deployments commits commits:all releases comments branches reviews
 ```
