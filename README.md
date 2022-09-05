@@ -1,23 +1,21 @@
-# .github
-.github configuration for all bridged projects
+# Welcome to Grida on Github.
+We have opened all our codes herer on `/gridaco`
+
+
+## Projects
+
+- [grida.co & docs](https://github.com/gridaco/grida.co)
+- [Grida App](https://github.com/gridaco/grida)
+- [Grida CLI](https://github.com/gridaco/code/tree/main/cli)
+- [Grida VSCode](https://github.com/gridaco/vscode-extension)
+- [Grida Figma - _Grida Assistant_](https://github.com/gridaco/assistant)
+- [Grida Design to Code](https://github.com/gridaco/designto-code)
 
 
 
-## Web
+## Internal guides
 
-
-
-## Components
-
-
-
-## Testing
-
-
-## Linting
-
-
-## Slack integration
+**Slack integration**
 ```
-/github subscribe bridgedxyz/${repo} issues pulls deployments statuses public commits commits:all releases comments branches reviews
+/github subscribe gridaco/${repo} issues pulls deployments statuses public commits commits:all releases comments branches reviews
 ```
