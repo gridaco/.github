@@ -1,22 +1,12 @@
-# Welcome to Grida on Github.
-We have opened all our codes herer on `/gridaco`
+# Grida organization defaults
 
+This repository contains organization-wide GitHub configuration for [Grida](https://github.com/gridaco), including the public [organization profile](profile/README.md), issue templates, shared workflows, and contributing guidance.
 
-## Projects
+## Maintainer notes
 
-- [grida.co & docs](https://github.com/gridaco/grida.co)
-- [Grida App](https://github.com/gridaco/grida)
-- [Grida CLI](https://github.com/gridaco/code/tree/main/cli)
-- [Grida VSCode](https://github.com/gridaco/vscode-extension)
-- [Grida Figma - _Grida Assistant_](https://github.com/gridaco/assistant)
-- [Grida Design to Code](https://github.com/gridaco/designto-code)
+### Slack integration
 
-
-
-## Internal guides
-
-**Slack integration**
-```
+```text
 /github subscribe gridaco/${repo} issues pulls deployments commits commits:all releases comments branches reviews
 ```
 

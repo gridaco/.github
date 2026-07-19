@@ -1,18 +1,20 @@
-![Grida Opensource on Github](/profile/profile-inline-cover.png)
+![Grida open source on GitHub](/profile/profile-inline-cover.png)
 
-## Get Involved
+# Grida
 
-- [Join the slack community](https://grida.co/join-slack)
+Open Canvas for Humans and Machines.
 
-## Looking for projects?
+[Website](https://grida.co) · [Documentation](https://grida.co/docs) · [Join the Slack community](https://grida.co/join-slack)
 
-- [grida.co & docs](https://github.com/gridaco/grida.co)
-- [Grida App](https://github.com/gridaco/grida)
-- [Grida CLI](https://github.com/gridaco/code/tree/main/cli)
-- [Grida VSCode](https://github.com/gridaco/vscode-extension)
-- [Grida Figma - _Grida Assistant_](https://github.com/gridaco/assistant)
-- [Grida Design to Code](https://github.com/gridaco/code)
-- [reflect-ui Design framework](https://github.com/reflect-ui)
+## Pinned projects
 
-## Our Works
+- [Grida](https://github.com/gridaco/grida) — Open-source canvas editor and rendering engine.
+- [nothing](https://github.com/gridaco/nothing) — 2D graphics engine powered by WebGPU and Rust.
+- [Grida Assistant](https://github.com/gridaco/assistant) — Figma design-to-code and design workflow plugin.
+- [Spock](https://github.com/gridaco/spock) — Meta-framework for prototyping applications from one inspectable source of truth.
+- [Grida Code](https://github.com/gridaco/code) — Design-to-code engine.
+- [Grida Standard Library](https://github.com/gridaco/library) — Free, open-source design assets for Grida's editor and AI.
+
+## Our work
+
 - [Grida Studios](https://grida.studio)
